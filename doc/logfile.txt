@@ -1,0 +1,42 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Programme\Greenfoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\Programme\Greenfoot\lib\extensions\greenfoot.jar;D:\Programme\Greenfoot\lib\bluejcore.jar;D:\Programme\Greenfoot\lib\bluejeditor.jar;D:\Programme\Greenfoot\lib\bluejext.jar;D:\Programme\Greenfoot\lib\junit-4.11.jar;D:\Programme\Greenfoot\lib\hamcrest-core-1.3.jar;D:\Programme\Greenfoot\lib\bluej.jar;D:\Programme\Greenfoot\lib\classgraph-4.2.6.jar;D:\Programme\Greenfoot\lib\diffutils-1.2.1.jar;D:\Programme\Greenfoot\lib\commons-logging-api-1.1.2.jar;D:\Programme\Greenfoot\lib\jl1.0.1.jar;D:\Programme\Greenfoot\lib\opencsv-2.3.jar;D:\Programme\Greenfoot\lib\xom-1.2.9.jar;D:\Programme\Greenfoot\lib\lang-stride.jar;D:\Programme\Greenfoot\lib\nsmenufx-2.1.4.jar;D:\Programme\Greenfoot\lib\richtextfx-fat-0.9.0.jar;D:\Programme\Greenfoot\lib\guava-17.0.jar;D:\Programme\Greenfoot\lib\httpclient-4.1.1.jar;D:\Programme\Greenfoot\lib\httpcore-4.1.jar;D:\Programme\Greenfoot\lib\httpmime-4.1.1.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.base.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.controls.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.fxml.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.graphics.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.media.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.properties.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.swing.jar;D:\Programme\Greenfoot\lib\javafx\lib\javafx.web.jar;D:\programming workspaces\JavaGreenfoot\Snake
+-d
+D:\programming workspaces\JavaGreenfoot\Snake\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\programming workspaces\JavaGreenfoot\Snake\MyWorld.java
+<---- end of javadoc command ---->
+Loading source file D:\programming workspaces\JavaGreenfoot\Snake\MyWorld.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\MyWorld.html...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\package-summary.html...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\allclasses.html...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\allclasses.html...
+Generating D:\programming workspaces\JavaGreenfoot\Snake\doc\index.html...
+4 warnings

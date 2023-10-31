@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Label
+comment1.params=world\ font
+comment1.target=Label(MyWorld,\ greenfoot.Font)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=text\ x\ y
+comment3.target=void\ setString(java.lang.String,\ int,\ int)
+numComments=4
